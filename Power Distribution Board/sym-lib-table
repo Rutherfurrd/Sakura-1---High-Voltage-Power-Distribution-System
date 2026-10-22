@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SolarCar26")(type "KiCad")(uri "${KIPRJMOD}/SolarCar26.kicad_sym")(options "")(descr ""))
+  (lib (name "Rudy-Sym")(type "KiCad")(uri "${KIPRJMOD}/Rudy-Sym.kicad_sym")(options "")(descr ""))
+  (lib (name "precharge_components")(type "KiCad")(uri "${KIPRJMOD}/precharge_components.kicad_sym")(options "")(descr ""))
+)

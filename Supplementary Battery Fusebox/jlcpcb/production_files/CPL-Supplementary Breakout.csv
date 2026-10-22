@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+F1,3568 Holder,Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal,82.62,-119.71,0.0,top
+F2,3568 Holder,Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal,82.62,-111.32,0.0,top
+F3,3568 Holder,Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal,82.62,-102.93,0.0,top
+F4,3568 Holder,Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal,82.62,-94.54,0.0,top
+F5,3568 Holder,Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal,82.62,-86.15,0.0,top
+F6,3568 Holder,Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal,82.62,-77.76,0.0,top
+F7,3568 Holder,Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal,82.62,-127.94,0.0,top
+H1,MountingHole_Pad,MountingHole_3.2mm_M3_DIN965_Pad_TopBottom,106.844859,-143.16,0.0,top
+H2,MountingHole_Pad,MountingHole_3.2mm_M3_DIN965_Pad_TopBottom,74.955141,-143.16,0.0,top
+H3,MountingHole_Pad,MountingHole_3.2mm_M3_DIN965_Pad_TopBottom,106.844859,-61.767641,0.0,top
+H4,MountingHole_Pad,MountingHole_3.2mm_M3_DIN965_Pad_TopBottom,74.955141,-61.767641,0.0,top
+J1,XT60,XT60PWM,90.9,-67.8625,0.0,top
+J10,Molex 5569,CONN_5569-02A_MOL,102.2712,-102.9018,90.0,top
+J11,Molex 5569,CONN_5569-02A_MOL,102.2712,-94.5104,90.0,top
+J12,Molex 5569,CONN_5569-02A_MOL,102.2712,-86.119,90.0,top
+J13,Molex 5569,CONN_5569-02A_MOL,102.2712,-77.7276,90.0,top
+J7,XT60,XT60PWM,91.25,-137.6,180.0,top
+J8,Molex 5569,CONN_5569-02A_MOL,102.2712,-119.6846,90.0,top
+J9,Molex 5569,CONN_5569-02A_MOL,102.2712,-111.2932,90.0,top

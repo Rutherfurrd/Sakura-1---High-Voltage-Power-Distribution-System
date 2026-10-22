@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "project": "BatteryBoard.kicad_pro",
+  "current": "2026-07-14_1115",
+  "runs": {
+    "2026-06-21_2220": {
+      "source_hashes": {
+        "BatteryBoard.kicad_sch": "sha256:42bdb6f09ffd8a4da0fb202856cbeee505818e64385a2986b1b84b9816acbc77",
+        "BatteryBoard.kicad_pcb": "sha256:56c718563ebd5ec9e4c6553032d12a0c3fa0d6cbd2ce5f0d420888b436444196",
+        "schematic.json": "sha256:747414f68f912e814a6e7ff7b2f66a040cb8e8ea6617f55f7747c434a55599b3",
+        "pcb.json": "sha256:4396d6102f224c23542051a64446dea77ce45f81da98595a2faf625e0ce8fd12"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py BatteryBoard.kicad_sch"
+      },
+      "generated": "2026-06-21T22:21:25-07:00",
+      "pinned": false
+    },
+    "2026-06-21_2251": {
+      "source_hashes": {
+        "BatteryBoard.kicad_sch": "sha256:42bdb6f09ffd8a4da0fb202856cbeee505818e64385a2986b1b84b9816acbc77"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py BatteryBoard.kicad_sch"
+      },
+      "generated": "2026-06-21T22:51:07-07:00",
+      "pinned": false
+    },
+    "2026-06-21_2251-2": {
+      "source_hashes": {
+        "BatteryBoard.kicad_pcb": "sha256:20f9a80679b740fe4c8fd2cf23adb7fa40178c4932fa9d7a85b161e6969020e2"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "pcb": "analyze_pcb.py BatteryBoard.kicad_pcb"
+      },
+      "generated": "2026-06-21T22:59:14-07:00",
+      "pinned": false
+    },
+    "2026-06-21_2259": {
+      "source_hashes": {
+        "schematic.json": "sha256:d48d7beca6a71ba040ddc17d283c3492db96524d062491f01acd6e5a139f6f06",
+        "pcb.json": "sha256:d7a4c643862c10127df1c206fa90c3729373494125f6c34821819d9e3ea46994"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "emc": "analyze_emc.py"
+      },
+      "generated": "2026-06-21T22:59:15-07:00",
+      "pinned": false
+    },
+    "2026-06-22_1555": {
+      "source_hashes": {
+        "BatteryBoard.kicad_sch": "sha256:5aaececbf92ad5d862e883e03b49590680f40de0c45b1139111c123257bf467d"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py BatteryBoard.kicad_sch"
+      },
+      "generated": "2026-06-22T15:55:33-07:00",
+      "pinned": false
+    },
+    "2026-06-22_1555-2": {
+      "source_hashes": {
+        "BatteryBoard.kicad_pcb": "sha256:cb802df366cea014d08b673403c79351bfdb4a8667d39fdc41d8306d3c6636f5"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "pcb": "analyze_pcb.py BatteryBoard.kicad_pcb"
+      },
+      "generated": "2026-06-22T15:55:57-07:00",
+      "pinned": false
+    },
+    "2026-06-22_1816": {
+      "source_hashes": {
+        "BatteryBoard.kicad_sch": "sha256:5aaececbf92ad5d862e883e03b49590680f40de0c45b1139111c123257bf467d"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py BatteryBoard.kicad_sch"
+      },
+      "generated": "2026-06-22T18:16:23-07:00",
+      "pinned": false
+    },
+    "2026-06-22_1819": {
+      "source_hashes": {
+        "BatteryBoard.kicad_pcb": "sha256:0e01255ada2a1f832245148beee6bf59f1a8e3b651f90f422c14cc4615c3eb4b"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "pcb": "analyze_pcb.py BatteryBoard.kicad_pcb"
+      },
+      "generated": "2026-06-22T18:19:51-07:00",
+      "pinned": false
+    },
+    "2026-07-14_1115": {
+      "source_hashes": {
+        "BatteryBoard.kicad_sch": "sha256:5a085b1d277d67971cee454d2a9cdd2cc4bee4e66caa7ee63b7160a0c3ba56f1"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py BatteryBoard.kicad_sch"
+      },
+      "generated": "2026-07-14T11:15:01-07:00",
+      "pinned": false
+    }
+  }
+}

@@ -1,0 +1,37 @@
+# --- KiCad backups ---
+*_bak
+*.bak
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.sch-bak
+*.pcb-bak
+_autosave-*
+*.zip
+
+# --- KiCad generated folders ---
+kicad_backups/
+
+# --- Cache / temp ---
+*.cache
+*.dcm
+*.kicad_prl
+
+# --- Fabrication outputs ---
+*.gbr
+*.drl
+*.gbl
+*.gtl
+*.gbs
+*.gts
+*.gbo
+*.gto
+*.gm1
+*.gko
+*.pos
+*.csv
+*.rpt
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db

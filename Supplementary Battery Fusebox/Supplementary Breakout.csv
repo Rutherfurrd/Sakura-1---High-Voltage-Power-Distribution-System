@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"F1,F2,F3,F4,F5,F6,F7","7","3568 Holder","","","","Solar Car '25-'26:FUSE_3568",""
+"J1,J7","2","XT60","","","","Solar Car '25-'26:XT60PWM","https://www.tme.eu/en/details/xt60pw-m/dc-power-connectors/amass/"
+"J8,J9,J10,J11,J12,J13","6","Molex 5569","","","","Solar Car '25-'26:CONN_5569-02A_MOL",""

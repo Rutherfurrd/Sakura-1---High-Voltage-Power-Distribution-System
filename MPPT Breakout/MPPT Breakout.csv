@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Digikey SID"
+"D1,D2,D3","3","1N4007WS","","","","Diode_SMD:D_SOD-323_HandSoldering","5399-1N4007WSCT-ND"
+"F1,F2,F3","3","10A FC-203","","","","Fuse:Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal","5923-FC-203BRIGHTTIN-ND"
+"J1","1","Molex 5569","","","","Connector_Molex:Molex_Mini-Fit_Jr_5569-04A2_2x02_P4.20mm_Horizontal","WM23323-ND"
+"J3","1","Molex 2218873321","","","","Solar Car '25-'26:CONN_2218873321_KEYOPT1_02P_MOL","900-2218873321-ND"
+"J4,J5,J6","3","Wurth 657002230101","","","","Solar Car '25-'26:657002230101","732-657002230101-ND"
+"K1,K2,K3","3","G5PZ-1A-X_DC24","","","","G5PZ1AXDC24","39-G5PZ-1A-XDC24-ND"

@@ -1,0 +1,50 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "58988573-e30d-49dd-ac1e-70a95af80109")
+	(paper "A4")
+	(lib_symbols)
+	(text "3.3V Step Down?"
+		(exclude_from_sim no)
+		(at 153.924 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2dcc4dd1-2eaa-4b39-9ce5-b0e3b3e2e1fa")
+	)
+	(text "FUSSY HORN"
+		(exclude_from_sim no)
+		(at 115.316 22.098 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7859e08e-b07f-4fdb-8af2-5730b84b2f68")
+	)
+	(hierarchical_label "CONVERTER_GND"
+		(shape output)
+		(at 137.16 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d619406-ab6f-46ad-b2b6-c33901713fb0")
+	)
+	(hierarchical_label "VIN"
+		(shape input)
+		(at 101.6 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f0144640-5e9e-44f5-a562-d1b710c04729")
+	)
+)
